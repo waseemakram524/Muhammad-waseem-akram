@@ -2,6 +2,11 @@
 Edge Partition Based on Vertex Degrees (Chemical Graph Theory)
 
 [Properties.xlsx](https://github.com/user-attachments/files/25464994/Properties.xlsx)
+This script:
+1. Takes a SMILES string
+2. Builds molecular graph using RDKit
+3. Computes vertex degrees
+4. Partitions edges based on degree pairs (du, dv)
 
 Run:
     python edge_partition.py
