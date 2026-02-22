@@ -1,11 +1,12 @@
 
 
+
 [Properties.xlsx](https://github.com/user-attachments/files/25464994/Properties.xlsx)
 This script contains the physicochemical properties used in the associated research paper.
 
 Edge Partition Based on Vertex Degrees (Chemical Graph Theory)
 
-edge_partition.py this script:
+[edge_partition.py.txt](https://github.com/user-attachments/files/25465162/edge_partition.py.txt) this script:
 1. Takes a SMILES string
 2. Builds molecular graph using RDKit
 3. Computes vertex degrees
